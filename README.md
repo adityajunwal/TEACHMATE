@@ -152,10 +152,6 @@ GET	/api/dashboard/performance	Fetch student performance insights
 📜 License
 MIT License – Open-source & free to use!
 
-📧 Contact
-📩 Email: your-email@example.com
-🔗 LinkedIn: Your Profile
-
 🎯 Why TeachMate?
 ✅ Saves Teachers’ Time – Automates attendance, grading & announcements ⏳
 ✅ Improves Student Engagement – AI-based personalized teaching 📚
